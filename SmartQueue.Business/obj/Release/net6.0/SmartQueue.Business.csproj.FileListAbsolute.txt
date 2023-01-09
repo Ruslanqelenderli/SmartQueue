@@ -1,0 +1,17 @@
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.Business\bin\Release\net6.0\SmartQueue.Business.deps.json
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.Business\bin\Release\net6.0\SmartQueue.Business.dll
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.Business\bin\Release\net6.0\SmartQueue.Business.pdb
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.Business\bin\Release\net6.0\SmartQueue.DataAccess.dll
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.Business\bin\Release\net6.0\SmartQueue.Entity.dll
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.Business\bin\Release\net6.0\SmartQueue.DataAccess.pdb
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.Business\bin\Release\net6.0\SmartQueue.Entity.pdb
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.Business\obj\Release\net6.0\SmartQueue.Business.csproj.AssemblyReference.cache
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.Business\obj\Release\net6.0\SmartQueue.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.Business\obj\Release\net6.0\SmartQueue.Business.AssemblyInfoInputs.cache
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.Business\obj\Release\net6.0\SmartQueue.Business.AssemblyInfo.cs
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.Business\obj\Release\net6.0\SmartQueue.Business.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.Business\obj\Release\net6.0\SmartQueue.Business.csproj.CopyComplete
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.Business\obj\Release\net6.0\SmartQueue.Business.dll
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.Business\obj\Release\net6.0\refint\SmartQueue.Business.dll
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.Business\obj\Release\net6.0\SmartQueue.Business.pdb
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.Business\obj\Release\net6.0\ref\SmartQueue.Business.dll

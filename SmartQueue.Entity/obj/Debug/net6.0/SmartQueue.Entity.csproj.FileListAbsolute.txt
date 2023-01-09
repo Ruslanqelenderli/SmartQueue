@@ -1,0 +1,12 @@
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.Entity\bin\Debug\net6.0\SmartQueue.Entity.deps.json
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.Entity\bin\Debug\net6.0\SmartQueue.Entity.dll
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.Entity\bin\Debug\net6.0\SmartQueue.Entity.pdb
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.Entity\obj\Debug\net6.0\SmartQueue.Entity.csproj.AssemblyReference.cache
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.Entity\obj\Debug\net6.0\SmartQueue.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.Entity\obj\Debug\net6.0\SmartQueue.Entity.AssemblyInfoInputs.cache
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.Entity\obj\Debug\net6.0\SmartQueue.Entity.AssemblyInfo.cs
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.Entity\obj\Debug\net6.0\SmartQueue.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.Entity\obj\Debug\net6.0\SmartQueue.Entity.dll
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.Entity\obj\Debug\net6.0\refint\SmartQueue.Entity.dll
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.Entity\obj\Debug\net6.0\SmartQueue.Entity.pdb
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.Entity\obj\Debug\net6.0\ref\SmartQueue.Entity.dll

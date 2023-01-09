@@ -1,0 +1,17 @@
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.DataAccess\bin\Debug\net6.0\SmartQueue.DataAccess.deps.json
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.DataAccess\bin\Debug\net6.0\SmartQueue.DataAccess.runtimeconfig.json
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.DataAccess\bin\Debug\net6.0\SmartQueue.DataAccess.dll
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.DataAccess\bin\Debug\net6.0\SmartQueue.DataAccess.pdb
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.DataAccess\bin\Debug\net6.0\SmartQueue.Entity.dll
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.DataAccess\bin\Debug\net6.0\SmartQueue.Entity.pdb
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.DataAccess\obj\Debug\net6.0\SmartQueue.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.DataAccess\obj\Debug\net6.0\SmartQueue.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.DataAccess\obj\Debug\net6.0\SmartQueue.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.DataAccess\obj\Debug\net6.0\SmartQueue.DataAccess.AssemblyInfo.cs
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.DataAccess\obj\Debug\net6.0\SmartQueue.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.DataAccess\obj\Debug\net6.0\SmartQueue.DataAccess.csproj.CopyComplete
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.DataAccess\obj\Debug\net6.0\SmartQueue.DataAccess.dll
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.DataAccess\obj\Debug\net6.0\refint\SmartQueue.DataAccess.dll
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.DataAccess\obj\Debug\net6.0\SmartQueue.DataAccess.pdb
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.DataAccess\obj\Debug\net6.0\SmartQueue.DataAccess.genruntimeconfig.cache
+C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.DataAccess\obj\Debug\net6.0\ref\SmartQueue.DataAccess.dll

@@ -1,0 +1,4 @@
+2022-10-23 18:25:55.433 +04:00 [INF] Now listening on: http://localhost:5060
+2022-10-23 18:25:55.522 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-23 18:25:55.522 +04:00 [INF] Hosting environment: Development
+2022-10-23 18:25:55.522 +04:00 [INF] Content root path: C:\Users\Ruslan-PC\source\repos\SmartQueue\SmartQueue.API\

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cYj9KzelwamiEnQHNn/NGgUlqTXL3VIGIFviCciAEuM=",
+  "Source": "SmartQueue.Api",
+  "BasePath": "_content/SmartQueue.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
